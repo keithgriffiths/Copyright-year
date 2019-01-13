@@ -9,6 +9,6 @@ $time = time () ;
 $year= date("Y",$time);
  
 //this line prints out the copyright date range.
-echo "Copyright © 2017 - $year. All rights reserved.";
+echo "Copyright © 2019 - $year. All rights reserved.";
 
 ?>
